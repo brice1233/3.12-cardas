@@ -4,7 +4,6 @@ let score = document.getElementById('score');
 
 
 
-
 const cardList = document.querySelector('.cardList')
 buildBoard();
 
